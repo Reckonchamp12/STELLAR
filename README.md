@@ -4,12 +4,16 @@
 [![PyTorch 2.0+](https://img.shields.io/badge/pytorch-2.0+-orange.svg)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+
+
 > **Official implementation** of *STELLAR: Spectral-Temporal Ensemble Learning with Latent Adaptive Representations for Probabilistic Time-Series Forecasting*.
 
 ---
-![ARTEMIS Architecture](Assets/ablation_radar.png)
-![ARTEMIS Architecture](Assets/ablation_loss_curves.png)
-![ARTEMIS Architecture](Assets/ablation_scatter_compare.png)
+![ARTEMIS Architecture](Assets/fig1_dataset_characteristics_dark.png)
+![ARTEMIS Architecture](Assets/fig2_koopman_poles_dark.png)
+![ARTEMIS Architecture](Assets/fig3_adaptive_filters_dark.png)
+![ARTEMIS Architecture](Assets/fig5_forecast_examples_dark.png)
+![ARTEMIS Architecture](Assets/fig6_metric_heatmap_dark.png)
 ## Overview
 
 STELLAR is a probabilistic time-series forecasting architecture that combines **five complementary inductive biases** inside a single unified framework:
