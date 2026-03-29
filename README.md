@@ -7,7 +7,9 @@
 > **Official implementation** of *STELLAR: Spectral-Temporal Ensemble Learning with Latent Adaptive Representations for Probabilistic Time-Series Forecasting*.
 
 ---
-
+![ARTEMIS Architecture](Assets/ablation_radar.png)
+![ARTEMIS Architecture](Assets/ablation_loss_curves.png)
+![ARTEMIS Architecture](Assets/ablation_scatter_compare.png)
 ## Overview
 
 STELLAR is a probabilistic time-series forecasting architecture that combines **five complementary inductive biases** inside a single unified framework:
